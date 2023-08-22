@@ -1,0 +1,33 @@
+"tz_id": "Asia/Karachi",
+"localtime_epoch": 1692696007,
+"localtime": "2023-08-22 14:20"
+},
+"current": {
+"last_updated_epoch": 1692695700,
+"last_updated": "2023-08-22 14:15",
+"temp_c": 37.7,
+"temp_f": 99.9,
+"is_day": 1,
+"condition": {
+    "text": "Sunny",
+    "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+    "code": 1000
+},
+"wind_mph": 3.1,
+"wind_kph": 5.0,
+"wind_degree": 199,
+"wind_dir": "SSW",
+"pressure_mb": 999.0,
+"pressure_in": 29.5,
+"precip_mm": 0.0,
+"precip_in": 0.0,
+"humidity": 37,
+"cloud": 16,
+"feelslike_c": 42.2,
+"feelslike_f": 108.0,
+"vis_km": 10.0,
+"vis_miles": 6.0,
+"uv": 9.0,
+"gust_mph": 3.6,
+"gust_kph": 5.8
+}
